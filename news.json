@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Salom Do'stlar Dil PC platformasiga xush kelibsiz!",
+        "des": "Bu platformada har xil yangiliklar, loyihalar hamda dasturlash kurslari bo'yicha  bilim olasiz!",
+        "img": "https://dil-pc-media.netlify.app/img/brain.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Dil PC ga asos solingan sana 14-avgust",
+        "des": "Bu platformaga 14-avgustda Dilyorbek Asfandiyorov asos soldi va 20-avgustda e'lon qildi. O'zbekiston Respublikasi Mustaqilligi kuni munosabati bilan 1-sentabr kuni Dil PC ommaga taqdim etildi.",
+        "img": "https://dil-pc-media.netlify.app/img/asos.jpg"
+    }
+]
